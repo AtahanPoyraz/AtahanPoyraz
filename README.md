@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Atahan</h1>
 
-<p>I am currently a student and I am uploading my projects I am working on on this page.</p>
+<p>I am currently a student and I am uploading my projects I am working on this page.</p>
 <p>My interests are mostly Cyber Security, Artificial Intelligence and Embedded Systems, but I also have knowledge about web programming.</p>
 
 - 📫 How to reach me **atahanpoyraz@gmail.com**
