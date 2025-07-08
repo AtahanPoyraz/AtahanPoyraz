@@ -56,14 +56,11 @@
 
 ###
 
-![AtahanPoyraz's Stats](https://github-readme-stats.vercel.app/api?username=AtahanPoyraz&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtahanPoyraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AtahanPoyraz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<div>
+  ![AtahanPoyraz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanPoyraz&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  ![AtahanPoyraz's Stats](https://github-readme-stats.vercel.app/api?username=AtahanPoyraz&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![AtahanPoyraz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtahanPoyraz&theme=dark&hide_border=true)
 </div>
-
 <br clear="both">
-
 
 ###
