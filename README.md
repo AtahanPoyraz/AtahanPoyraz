@@ -14,7 +14,7 @@ $$$$$&&&&&&&&$XX$$XXXXXX$$+:.:++;;;;&&&&&&&&&&&&&X$&&&&   • Programming:      
 X$$$&&&&$&&$$XXXX$$$$$$X$XX;:;+XX;;;&&&&&&&&&X$$&$X&&&&   • Web:                                     HTML / CSS / JavaScript
 $$$$&&&X$X$$X$$X$$$$$$X$$$X;:;;xx;;X&&&&&&&&&$&&&&&&&&&   • Tools:                                              Git / Docker
 $$$$$x;$$$$$$$XXX$$$$$$XXx;..:;;;;+&&&&&&&&&&&&&&&&&&&&   • Shell:                                         PowerShell / Bash
-&&$$Xx;XXXXXXXX&XXX$$$$$XXX+;;++;;&&&&&&&&&&&&$$&&$$&&&   • AI & ML:                                      Keras / TensorFlow
+&&$$Xx;XXXXXXXX&XXX$$$$$XXX+;;++;;&&&&&&&&&&&&$$&&$$&&&   
 XXxXx+;XXXXXXXX$XXXXXXx+;;;;..;;:;$&&&&&&&&&&&X$&&&$&&&   
 xxxXX;:xXXxXx+xxXXXXXXXXx++;:::::;;+++;x&&&&$$X&&&&&&&&   
 :..+;;.::;;;+;;;;+XXXXX$XXXx;:::+++;;:;+xX&&&++xxXXxxx+   
