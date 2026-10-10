@@ -7,19 +7,19 @@ $$$x;;;;++++;+;...:..  ...           ::;x+;::;;;;;;;;;+   • Location:         
 &&&&&X;;+++;;:..;XX$$XXXXXXxxx+;:..  .:;xx;::;;;;;:;;;;   • Certificates:                                               CCNA
 &&&&&&X;;;+;;..;X$$$$$XXXXXXXXx+;:: .::;xx+::;;;;;;;;;;   • Languages:                                     Turkish / English
 &&&&&&&XXXXXX:.+XXX$$XXXXXXXXXx+;;:..&X&&Xx;X&&&&&&&&&&   
-&&&&&&$$&&&&&+.xXX$$$$$XXXXXXX+x;::.;&$X&&&$&&&&&&&&&&&   skills____________________________________________________________
-&&&&&&&&&&&&&&:XXXXx;::;x$+;......:.X&&&&&&X&&&&&&&&&&&   • OS:                                              Windows / Linux
-$$$$$&&&&&&&&$+XXx++:;+XXX;..;....;;&&&&&&&&&&&&&&&&X$&   • Networking:                  Cisco / Aruba / Enterprise Networks
-$$$$$&&&&&&&&$XX$$XXXXXX$$+:.:++;;;;&&&&&&&&&&&&&X$&&&&   • Programming:                                  Python / Java / Go
-X$$$&&&&$&&$$XXXX$$$$$$X$XX;:;+XX;;;&&&&&&&&&X$$&$X&&&&   • Web:                                     HTML / CSS / JavaScript
-$$$$&&&X$X$$X$$X$$$$$$X$$$X;:;;xx;;X&&&&&&&&&$&&&&&&&&&   • Tools:                                              Git / Docker
-$$$$$x;$$$$$$$XXX$$$$$$XXx;..:;;;;+&&&&&&&&&&&&&&&&&&&&   • Shell:                                         PowerShell / Bash
-&&$$Xx;XXXXXXXX&XXX$$$$$XXX+;;++;;&&&&&&&&&&&&$$&&$$&&&   
-XXxXx+;XXXXXXXX$XXXXXXx+;;;;..;;:;$&&&&&&&&&&&X$&&&$&&&   
-xxxXX;:xXXxXx+xxXXXXXXXXx++;:::::;;+++;x&&&&$$X&&&&&&&&   
-:..+;;.::;;;+;;;;+XXXXX$XXXx;:::+++;;:;+xX&&&++xxXXxxx+   
-;X$&&&&&&&&&$$XX::XXXXXXXXX+;...: .......:&&&:..+++++++   
-.... ..x+........:XXXXXXx+;;:.....    ....&&&;...:;+X$$   
+&&&&&&$$&&&&&+.xXX$$$$$XXXXXXX+x;::.;&$X&&&$&&&&&&&&&&&   about_____________________________________________________________
+&&&&&&&&&&&&&&:XXXXx;::;x$+;......:.X&&&&&&X&&&&&&&&&&&   • Network engineer with a background in programming. I've been
+$$$$$&&&&&&&&$+XXx++:;+XXX;..;....;;&&&&&&&&&&&&&&&&X$&     writing code for years and still do. The two go hand in hand in
+$$$$$&&&&&&&&$XX$$XXXXXX$$+:.:++;;;;&&&&&&&&&&&&&X$&&&&     most of what I do. There's usually a side project or two going,
+X$$$&&&&$&&$$XXXX$$$$$$X$XX;:;+XX;;;&&&&&&&&&X$$&$X&&&&     some of which even get finished. Feel free to say hi anytime.
+$$$$&&&X$X$$X$$X$$$$$$X$$$X;:;;xx;;X&&&&&&&&&$&&&&&&&&&   
+$$$$$x;$$$$$$$XXX$$$$$$XXx;..:;;;;+&&&&&&&&&&&&&&&&&&&&   skills____________________________________________________________
+&&$$Xx;XXXXXXXX&XXX$$$$$XXX+;;++;;&&&&&&&&&&&&$$&&$$&&&   • OS:                                              Windows / Linux
+XXxXx+;XXXXXXXX$XXXXXXx+;;;;..;;:;$&&&&&&&&&&&X$&&&$&&&   • Networking:                  Cisco / Aruba / Enterprise Networks
+xxxXX;:xXXxXx+xxXXXXXXXXx++;:::::;;+++;x&&&&$$X&&&&&&&&   • Programming:                                  Python / Java / Go
+:..+;;.::;;;+;;;;+XXXXX$XXXx;:::+++;;:;+xX&&&++xxXXxxx+   • Web:                                     HTML / CSS / JavaScript
+;X$&&&&&&&&&$$XX::XXXXXXXXX+;...: .......:&&&:..+++++++   • Tools:                                              Git / Docker
+.... ..x+........:XXXXXXx+;;:.....    ....&&&;...:;+X$$   • Shell:                                         PowerShell / Bash
 ..   ..;;..:.....:XXXXXXXx++++;:..       .:xX+..  .   .   
 XXXXXx;:...  .....xXXXXXXXXXXx+;:.   .    ...........     contacts__________________________________________________________
 &&&X....     ........XXXXXXXXXxx+. ...     ..  ......:;   • Email:                                    atahanpoyraz@gmail.com
