@@ -9,8 +9,8 @@ $$$x;;;;++++;+;...:..  ...           ::;x+;::;;;;;;;;;+   • Location:         
 &&&&&&&XXXXXX:.+XXX$$XXXXXXXXXx+;;:..&X&&Xx;X&&&&&&&&&&   
 &&&&&&$$&&&&&+.xXX$$$$$XXXXXXX+x;::.;&$X&&&$&&&&&&&&&&&   about_____________________________________________________________
 &&&&&&&&&&&&&&:XXXXx;::;x$+;......:.X&&&&&&X&&&&&&&&&&&   • Network engineer with a background in programming. I've been
-$$$$$&&&&&&&&$+XXx++:;+XXX;..;....;;&&&&&&&&&&&&&&&&X$&     writing code for years and still do. The two go hand in hand in
-$$$$$&&&&&&&&$XX$$XXXXXX$$+:.:++;;;;&&&&&&&&&&&&&X$&&&&     most of what I do. There's usually a side project or two going,
+$$$$$&&&&&&&&$+XXx++:;+XXX;..;....;;&&&&&&&&&&&&&&&&X$&     writing code for years and still do. The two are a big part of 
+$$$$$&&&&&&&&$XX$$XXXXXX$$+:.:++;;;;&&&&&&&&&&&&&X$&&&&     most things I do. There's usually a side project or two going,
 X$$$&&&&$&&$$XXXX$$$$$$X$XX;:;+XX;;;&&&&&&&&&X$$&$X&&&&     some of which even get finished. Feel free to say hi anytime.
 $$$$&&&X$X$$X$$X$$$$$$X$$$X;:;;xx;;X&&&&&&&&&$&&&&&&&&&   
 $$$$$x;$$$$$$$XXX$$$$$$XXx;..:;;;;+&&&&&&&&&&&&&&&&&&&&   skills____________________________________________________________
